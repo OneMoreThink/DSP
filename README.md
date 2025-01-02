@@ -1,4 +1,4 @@
-# DSP (Digital Signals Theory) : 디지털 신호 처리 🔉
+# DSP (Digital Signals Theory) : [디지털 신호 처리 🔉](https://brianmcfee.net/dstbook-site/content/intro.html)
 
 ## TIME-DOMAIN SIGNALS
 - Signals
